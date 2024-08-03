@@ -1,0 +1,59 @@
+#btn1{background-color: rgb(189, 255, 8);
+    color:rgb(36, 2, 255);
+    padding:15px;
+    margin:25px;
+    border-radius:6px;
+}
+#btn2 {
+    background-color: rgb(207, 11, 67, 0.708);
+    color: rgb(255, 255, 255);
+    padding: 15px;
+    margin: 25px;
+    border-radius: 6px;
+}
+
+
+#btn3 {
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    padding: 15px;
+    margin: 25px;
+    border-radius: 6px;
+}
+
+
+
+#btn4 {
+    background-color: rgb(226, 255, 8);
+    color: black;
+    padding: 15px;
+    margin: 25px;
+    border-radius: 6px;
+
+}
+
+#btn5 {
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 252, 104);
+    padding: 15px;
+    margin: 25px;
+    border-radius: 6pc;
+}
+
+#btn5:hover {
+    transition-duration: 2s;
+    box-shadow: 0px 15px 16px 0px rgb(158, 255, 195);
+}
+
+#btn6 {
+    background-color: rgb(118, 0, 0);
+    color: white;
+    padding: 15px;
+    margin: 25px;
+    border-radius: 6pc;
+}
+
+#btn6:hover {
+    transition-duration: 2s;
+    box-shadow: 0px 12px 16px 0px rgba(76, 67, 237, 0.884);
+}
